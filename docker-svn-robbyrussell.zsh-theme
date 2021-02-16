@@ -47,4 +47,4 @@ ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%})"
 
 ZSH_THEME_SVN_PROMPT_PREFIX="%{$fg_bold[blue]%}svn:(%{$fg[red]%}"
 ZSH_THEME_SVN_PROMPT_DIRTY="%{$fg[red]%}✗"
-ZSH_THEME_SVN_PROMPT_CLEAN="%{$fg[green]%}
+ZSH_THEME_SVN_PROMPT_CLEAN="%{$fg[green]%}"
